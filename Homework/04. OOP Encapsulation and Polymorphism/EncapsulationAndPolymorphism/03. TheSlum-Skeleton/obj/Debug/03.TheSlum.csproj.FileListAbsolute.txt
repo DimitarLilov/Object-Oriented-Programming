@@ -1,0 +1,12 @@
+D:\Lectures\OOP\Homework-04-Encapsulation-Polymorphism\03.TheSlum\bin\Debug\TheSlum.exe
+D:\Lectures\OOP\Homework-04-Encapsulation-Polymorphism\03.TheSlum\bin\Debug\TheSlum.pdb
+D:\Lectures\OOP\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\03.TheSlum.csprojResolveAssemblyReference.cache
+D:\Lectures\OOP\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\TheSlum.exe
+D:\Lectures\OOP\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\TheSlum.pdb
+C:\Users\Dimitar\Downloads\SoftUni-2-master\SoftUni-2-master\OOP\Homeworks\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\TheSlum.exe
+C:\Users\Dimitar\Downloads\SoftUni-2-master\SoftUni-2-master\OOP\Homeworks\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\TheSlum.pdb
+C:\Users\Dimitar\Downloads\SoftUni-2-master\SoftUni-2-master\OOP\Homeworks\Homework-04-Encapsulation-Polymorphism\03.TheSlum\bin\Debug\TheSlum.exe
+C:\Users\Dimitar\Downloads\SoftUni-2-master\SoftUni-2-master\OOP\Homeworks\Homework-04-Encapsulation-Polymorphism\03.TheSlum\bin\Debug\TheSlum.pdb
+C:\Users\Dimitar\Downloads\SoftUni-2-master\SoftUni-2-master\OOP\Homeworks\Homework-04-Encapsulation-Polymorphism\03.TheSlum\obj\Debug\03.TheSlum.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\03. TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\03. TheSlum-Skeleton\obj\Debug\TheSlum.pdb

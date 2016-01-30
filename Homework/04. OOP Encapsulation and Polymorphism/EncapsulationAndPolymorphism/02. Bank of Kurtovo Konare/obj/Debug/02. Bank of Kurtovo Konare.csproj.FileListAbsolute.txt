@@ -1,0 +1,5 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\02. Bank of Kurtovo Konare\bin\Debug\_02.Bank_of_Kurtovo_Konare.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\02. Bank of Kurtovo Konare\bin\Debug\_02.Bank_of_Kurtovo_Konare.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\02. Bank of Kurtovo Konare\bin\Debug\_02.Bank_of_Kurtovo_Konare.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\02. Bank of Kurtovo Konare\obj\Debug\_02.Bank_of_Kurtovo_Konare.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\04. OOP Encapsulation and Polymorphism\EncapsulationAndPolymorphism\02. Bank of Kurtovo Konare\obj\Debug\_02.Bank_of_Kurtovo_Konare.pdb
