@@ -1,0 +1,8 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\bin\Debug\_03.Paths.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\obj\Debug\03. Paths.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\bin\Debug\_03.Paths.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\bin\Debug\_03.Paths.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\bin\Debug\01.Point3D.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\bin\Debug\01.Point3D.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\obj\Debug\_03.Paths.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Static Members and Namespaces\Static Members and Namespaces\03. Paths\obj\Debug\_03.Paths.pdb
