@@ -1,0 +1,6 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\bin\Debug\_03.Company_Hierarchy.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\obj\Debug\03. Company Hierarchy.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\bin\Debug\_03.Company_Hierarchy.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\bin\Debug\_03.Company_Hierarchy.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\obj\Debug\_03.Company_Hierarchy.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\03. Company Hierarchy\obj\Debug\_03.Company_Hierarchy.pdb

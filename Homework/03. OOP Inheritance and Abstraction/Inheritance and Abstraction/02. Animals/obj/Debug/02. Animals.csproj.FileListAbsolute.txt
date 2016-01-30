@@ -1,0 +1,6 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\obj\Debug\02. Animals.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.pdb

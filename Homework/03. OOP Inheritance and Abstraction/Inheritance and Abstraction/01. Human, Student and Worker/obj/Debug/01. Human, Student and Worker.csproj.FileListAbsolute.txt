@@ -1,0 +1,6 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\01. Human, Student and Worker.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\_01.Human__Student_and_Worker.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\03. OOP Inheritance and Abstraction\Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\_01.Human__Student_and_Worker.pdb
