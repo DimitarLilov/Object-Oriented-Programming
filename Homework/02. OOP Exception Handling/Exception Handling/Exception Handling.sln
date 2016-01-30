@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{212C7A98-4D1E-43F0-A502-E059FBC400D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{D190FCDC-6A1A-44C5-BAA1-C42ECBE39AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212C7A98-4D1E-43F0-A502-E059FBC400D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212C7A98-4D1E-43F0-A502-E059FBC400D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212C7A98-4D1E-43F0-A502-E059FBC400D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212C7A98-4D1E-43F0-A502-E059FBC400D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D190FCDC-6A1A-44C5-BAA1-C42ECBE39AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D190FCDC-6A1A-44C5-BAA1-C42ECBE39AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D190FCDC-6A1A-44C5-BAA1-C42ECBE39AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D190FCDC-6A1A-44C5-BAA1-C42ECBE39AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

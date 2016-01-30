@@ -1,0 +1,6 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\obj\Debug\02. Enter Numbers.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\obj\Debug\_02.Enter_Numbers.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\02. OOP Exception Handling\Exception Handling\02. Enter Numbers\obj\Debug\_02.Enter_Numbers.pdb
