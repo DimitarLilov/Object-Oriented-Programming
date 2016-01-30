@@ -1,0 +1,6 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\bin\Debug\_02.Fraction_Calculator.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\bin\Debug\_02.Fraction_Calculator.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\bin\Debug\_02.Fraction_Calculator.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\obj\Debug\02. Fraction Calculator.csprojResolveAssemblyReference.cache
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\obj\Debug\_02.Fraction_Calculator.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\06. OOP Other Types in OOP\Other Types in OOP\02. Fraction Calculator\obj\Debug\_02.Fraction_Calculator.pdb
