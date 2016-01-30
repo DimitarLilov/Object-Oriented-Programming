@@ -1,0 +1,5 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\02.LaptopShop\obj\Debug\02.LaptopShop.pdb

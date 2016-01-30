@@ -1,0 +1,5 @@
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\03.PCCatalog\bin\Debug\03.PCCatalog.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\03.PCCatalog\bin\Debug\03.PCCatalog.pdb
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\03.PCCatalog\obj\Debug\03.PCCatalog.exe
+C:\SoftUni\Object Oriented Programming\HomeWork\01. OOP Defining Classes\Defining Classes\03.PCCatalog\obj\Debug\03.PCCatalog.pdb
